@@ -1,0 +1,5 @@
+webbey\ejb\ThingsManagerBean.class
+webbey\domain\Thing.class
+webbey\ejb\OrdersManagerBean.class
+webbey\domain\Order.class
+webbey\domain\ThingInOrder.class
